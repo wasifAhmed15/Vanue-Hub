@@ -1,0 +1,11 @@
+.loginbackground{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMWFt5Y3GQnLwvvT7VNrBCslFDLpMPpW0ynwQJi0g2Eeg1D9ElWQdb3Dwv0jscTkM4S0&usqp=CAU");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.form-filter{
+    backdrop-filter: blur(0.8px);
+}
